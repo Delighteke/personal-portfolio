@@ -1,4 +1,7 @@
 // AboutMePage.js
+// Eke Delight
+// 301325470
+// Date: 03/03/2024
 import React from 'react';
 import PassportImage from './Passport.jpg'; // Import your about image
 import './styles.css'
